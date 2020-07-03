@@ -22,7 +22,7 @@ font-weight: bold;
 .divhead {
     margin-top: 20%;
     margin-left: 15%;  
-    margin-bottom: 15%;
+    margin-bottom: 5%;
     margin-right: 0;
 }
 /* Стилі для соціальних іконок */
@@ -91,4 +91,3 @@ font-weight: bold;
     background: #2196F3;
     color: white;
 }
-
